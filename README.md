@@ -10,4 +10,4 @@ Screenshot
 
 ---
 
-[commander_screenshot]: image/commander_screenshot.png
+[commander_screenshot]: image/commander_screenshot.PNG
